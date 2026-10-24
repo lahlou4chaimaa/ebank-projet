@@ -15,8 +15,7 @@ import java.util.Date;
 public class BankAccount {
 
     @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long id;
+    private String id;
 
     private double balance;
 
