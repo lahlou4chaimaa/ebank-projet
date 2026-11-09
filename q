@@ -1,0 +1,17 @@
+.gitignore
+.idea/encodings.xml
+.idea/misc.xml
+customer-service/pom.xml
+customer-service/src/main/java/org/lahlou/net/customerservice/service/CustomerService.java
+customer-service/src/main/resources/application.properties
+ebank-bot/.gitattributes
+ebank-bot/.gitignore
+ebank-bot/.mvn/wrapper/maven-wrapper.properties
+ebank-bot/mvnw
+ebank-bot/mvnw.cmd
+ebank-bot/pom.xml
+ebank-bot/src/main/java/org/lahlou/net/ebankbot/EbankBotApplication.java
+ebank-bot/src/main/java/org/lahlou/net/ebankbot/agents/EbankAIAgent.java
+ebank-bot/src/main/java/org/lahlou/net/ebankbot/controllers/EbankChatbotController.java
+ebank-bot/src/main/resources/application.properties
+ebank-bot/src/test/java/org/lahlou/net/ebankbot/EbankBotApplicationTests.java
