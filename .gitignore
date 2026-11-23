@@ -37,10 +37,11 @@ build/
 
 ### Mac OS ###
 .DS_Store
-
+Thumbs.db
 
 
 .env
 .env.*
 !.env.example
 **/application-local.properties
+application-local.yml

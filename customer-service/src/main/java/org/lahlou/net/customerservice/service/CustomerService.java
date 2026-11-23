@@ -20,6 +20,8 @@ public class CustomerService {
     }
 @McpTool(description="Get All Customers")
 
+
+
     public List<Customer> getAllCustomers() {
         return customerRepository.findAll();
     }
@@ -29,6 +31,8 @@ public class CustomerService {
                 .orElseThrow(() ->
                         new RuntimeException("Customer not found!!"));
     }
+
+
 
     @McpTool(description="Save a new Customer")
     public Customer saveCustomer(@McpToolParam(description="The Customer to save (name, email") Customer customer) {
