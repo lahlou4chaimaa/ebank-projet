@@ -2717,6 +2717,11 @@ Interfaces conversationnelles
 Cette combinaison constitue une base intéressante pour évoluer vers une architecture bancaire intelligente plus complète.
 
 ---
+#Screens 
+<img width="581" height="620" alt="image" src="https://github.com/user-attachments/assets/bb7aa816-7d3b-4c37-9605-56fa89121a04" />
+<img width="897" height="900" alt="image" src="https://github.com/user-attachments/assets/57a86c3e-723a-43e7-a397-9488981b7a15" />
+
+
 
 # Auteur
 
