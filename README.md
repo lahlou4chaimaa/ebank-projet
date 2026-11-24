@@ -2721,6 +2721,9 @@ Cette combinaison constitue une base intéressante pour évoluer vers une archit
 <img width="581" height="620" alt="image" src="https://github.com/user-attachments/assets/bb7aa816-7d3b-4c37-9605-56fa89121a04" />
 <img width="897" height="900" alt="image" src="https://github.com/user-attachments/assets/57a86c3e-723a-43e7-a397-9488981b7a15" />
 <img width="1099" height="506" alt="image" src="https://github.com/user-attachments/assets/5bf0663b-950d-4d17-9fc2-725485384f39" />
+<img width="793" height="417" alt="Screenshot 2026-10-24 210051" src="https://github.com/user-attachments/assets/768a4fc0-91db-425e-9ec3-6fc9b0952b48" />
+<img width="790" height="326" alt="Screenshot 2026-10-24 213020" src="https://github.com/user-attachments/assets/8f165728-ab51-4dfd-8d1b-8ee01ef482da" />
+<img width="668" height="973" alt="Screenshot 2026-10-24 210133" src="https://github.com/user-attachments/assets/7abad72c-7396-40ad-9d7b-a594178ee802" />
 
 
 
